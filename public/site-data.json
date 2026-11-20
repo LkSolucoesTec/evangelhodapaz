@@ -60,8 +60,8 @@
     "published_date": "2026-11-24",
     "status": "published",
     "is_demo": 1,
-    "created_at": "2026-11-20 01:02:28",
-    "updated_at": "2026-11-20 01:02:28"
+    "created_at": "2026-11-20 02:44:26",
+    "updated_at": "2026-11-20 02:44:26"
   },
   "publications": [
     {
@@ -75,8 +75,8 @@
       "published_date": "2026-11-24",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26"
     },
     {
       "id": 2,
@@ -89,8 +89,8 @@
       "published_date": "2026-11-21",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26"
     },
     {
       "id": 3,
@@ -103,8 +103,8 @@
       "published_date": "2026-11-17",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26"
     },
     {
       "id": 4,
@@ -117,8 +117,8 @@
       "published_date": "2026-11-14",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26"
     },
     {
       "id": 5,
@@ -131,8 +131,8 @@
       "published_date": "2026-11-12",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26"
     }
   ],
   "events": [
@@ -146,8 +146,9 @@
       "location": "Templo Sede",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26",
+      "is_highlighted": 0
     },
     {
       "id": 1,
@@ -159,8 +160,9 @@
       "location": "Templo Sede",
       "status": "published",
       "is_demo": 1,
-      "created_at": "2026-11-20 01:02:28",
-      "updated_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "updated_at": "2026-11-20 02:44:26",
+      "is_highlighted": 0
     }
   ],
   "notices": [],
@@ -171,7 +173,8 @@
       "caption": "A cruz como símbolo de esperança e salvação (imagem ilustrativa substituível na Área do Pastor).",
       "image_url": "/src/assets/images/estudo_cruz_fe_1795123819357.jpg",
       "event_date": "Registro ilustrativo",
-      "created_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "album_id": null
     },
     {
       "id": 2,
@@ -179,7 +182,8 @@
       "caption": "Estudo bíblico e edificação espiritual da igreja (imagem ilustrativa substituível na Área do Pastor).",
       "image_url": "/src/assets/images/palavra_biblia_luz_1795123820778.jpg",
       "event_date": "Registro ilustrativo",
-      "created_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "album_id": null
     },
     {
       "id": 1,
@@ -187,7 +191,9 @@
       "caption": "Momento de oração e comunhão no Templo Sede (imagem ilustrativa substituível na Área do Pastor).",
       "image_url": "/src/assets/images/vigilia_adoracao_maos_1795123818998.jpg",
       "event_date": "Registro ilustrativo",
-      "created_at": "2026-11-20 01:02:28"
+      "created_at": "2026-11-20 02:44:26",
+      "album_id": null
     }
-  ]
+  ],
+  "albums": []
 }
