@@ -1,0 +1,193 @@
+{
+  "settings": {
+    "church_name": "O Evangelho da Paz",
+    "church_subtitle": "A Comunidade Evangélica Pentecostal",
+    "presidents": "Pr. Robson Andrade e Pra. Simone Andrade",
+    "motto": "Ide por todo mundo e pregai o evangelho a toda criatura. (Marcos 16:15)",
+    "email": "oevangelhodapaz@gmail.com",
+    "whatsapp": "+55 11 98364-6182",
+    "whatsapp_link": "https://wa.me/5511983646182",
+    "address_line1": "R. Profa. Nina Stocco, 529",
+    "address_line2": "Jardim Catanduva · São Paulo – SP",
+    "address_full": "R. Profa. Nina Stocco, 529 - Jardim Catanduva, São Paulo - SP",
+    "facebook_url": "https://www.facebook.com/oevangelhodapaz",
+    "instagram_url": "https://www.instagram.com/oevangelhodapaz",
+    "pastor_facebook_url": "https://www.facebook.com/Pr.RobsonAndrade",
+    "gallery_external_url": "https://www.facebook.com/oevangelhodapaz/photos",
+    "bible_online_url": "https://www.bibliaonline.com.br/acf",
+    "maps_embed_url": "https://www.google.com/maps/embed?pb=!4v1795122116910!6m8!1m7!1ssOJ51AxXSOTjxm7gYwuXVQ!2m2!1d-23.62867155246288!2d-46.76040549956484!3f61.27!4f0!5f0.7820865974627469",
+    "maps_directions_url": "https://www.google.com/maps/search/?api=1&query=R.+Profa.+Nina+Stocco,+529+-+Jardim+Catanduva,+S%C3%A3o+Paulo+-+SP",
+    "pix_key": "",
+    "pix_key_type": "CNPJ",
+    "pix_beneficiary": "Comunidade Evangélica Pentecostal O Evangelho da Paz",
+    "pix_city": "SAO PAULO",
+    "schedule": [
+      {
+        "day": "Terça-feira",
+        "time": "20:00h",
+        "title": "Oração"
+      },
+      {
+        "day": "Quarta-feira",
+        "time": "19:30h",
+        "title": "Ensinamento Bíblico"
+      },
+      {
+        "day": "Sexta-feira",
+        "time": "19:30h",
+        "title": "Campanhas"
+      },
+      {
+        "day": "Domingo",
+        "time": "09:00h",
+        "title": "E.B.D. (Escola Bíblica Dominical)"
+      },
+      {
+        "day": "Domingo",
+        "time": "10:00h",
+        "title": "Culto da Família"
+      }
+    ]
+  },
+  "wordOfTheDay": {
+    "id": 1,
+    "title": "Confie no Senhor",
+    "slug": "confie-no-senhor",
+    "category": "palavra_do_dia",
+    "content": "“Entrega o teu caminho ao Senhor, confia nele, e ele agirá.”\n\nMuitas vezes nos deparamos com caminhos incertos e desafios que parecem maiores do que as nossas forças. No entanto, o Salmo 37 nos convida a fazer uma escolha diária de fé: entregar o controle ao Senhor.\n\nQuando entregamos o nosso caminho a Deus e descansamos em Sua fidelidade, Ele mesmo age com sabedoria, justiça e paz no tempo perfeito. Hoje, coloque diante de Deus a sua família, seus projetos e suas orações — e confie.",
+    "bible_reference": "Salmos 37:5",
+    "image_url": "/src/assets/images/palavra_biblia_luz_1795123820778.jpg",
+    "published_date": "2026-11-24",
+    "status": "published",
+    "is_demo": 1,
+    "created_at": "2026-11-20 01:02:28",
+    "updated_at": "2026-11-20 01:02:28"
+  },
+  "publications": [
+    {
+      "id": 1,
+      "title": "Confie no Senhor",
+      "slug": "confie-no-senhor",
+      "category": "palavra_do_dia",
+      "content": "“Entrega o teu caminho ao Senhor, confia nele, e ele agirá.”\n\nMuitas vezes nos deparamos com caminhos incertos e desafios que parecem maiores do que as nossas forças. No entanto, o Salmo 37 nos convida a fazer uma escolha diária de fé: entregar o controle ao Senhor.\n\nQuando entregamos o nosso caminho a Deus e descansamos em Sua fidelidade, Ele mesmo age com sabedoria, justiça e paz no tempo perfeito. Hoje, coloque diante de Deus a sua família, seus projetos e suas orações — e confie.",
+      "bible_reference": "Salmos 37:5",
+      "image_url": "/src/assets/images/palavra_biblia_luz_1795123820778.jpg",
+      "published_date": "2026-11-24",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 2,
+      "title": "A Fortaleza da Fé",
+      "slug": "a-fortaleza-da-fe",
+      "category": "estudo_biblico",
+      "content": "A fé cristã não é um sentimento passageiro, mas uma convicção firme baseada nas promessas eternas de Deus. Em Efésios 6:16, Paulo nos ensina a tomar o escudo da fé para apagar todos os dardos inflamados do maligno.\n\n1. A fé nasce pelo ouvir a Palavra de Deus (Romanos 10:17).\n2. A fé persevera mesmo quando os olhos naturais ainda não veem a resposta.\n3. A fé se fortalece na comunhão da igreja e na vida de oração.\n\nPermaneça firme na Rocha que é Cristo Jesus.",
+      "bible_reference": "Efésios 6:16",
+      "image_url": "/src/assets/images/estudo_cruz_fe_1795123819357.jpg",
+      "published_date": "2026-11-21",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 3,
+      "title": "Entendendo a Graça de Deus",
+      "slug": "entendendo-a-graca-de-deus",
+      "category": "estudo_biblico",
+      "content": "A graça é o favor imerecido de Deus derramado sobre nós por meio de Jesus Cristo. Não somos salvos por méritos próprios, mas pela misericórdia do Pai que nos alcança e nos transforma.\n\nAo compreendermos a profundidade da graça, deixamos para trás o peso da culpa e passamos a servir ao Senhor com gratidão, alegria e santidade.",
+      "bible_reference": "Efésios 2:8-9",
+      "image_url": "/src/assets/images/palavra_biblia_luz_1795123820778.jpg",
+      "published_date": "2026-11-17",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 4,
+      "title": "Crescendo na Palavra",
+      "slug": "crescendo-na-palavra",
+      "category": "estudo_biblico",
+      "content": "Assim como uma semente precisa de solo fértil, água e luz para crescer e dar frutos, a vida espiritual necessita do alimento diário das Escrituras.\n\nDedicar tempo diário à leitura bíblica, ao estudo em comunidade na Escola Bíblica Dominical e à prática do Evangelho produz maturidade espiritual e firmeza diante das provações.",
+      "bible_reference": "1 Pedro 2:2",
+      "image_url": "/src/assets/images/estudo_broto_palavra_1795123819275.jpg",
+      "published_date": "2026-11-14",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 5,
+      "title": "A Paz que Excede Todo Entendimento",
+      "slug": "a-paz-que-excede-todo-entendimento",
+      "category": "frase_reflexao",
+      "content": "Não andeis ansiosos por coisa alguma; antes, em tudo, sejam os vossos pedidos conhecidos diante de Deus pela oração e pela súplica, com ações de graças. A paz de Deus guardará o vosso coração e a vossa mente em Cristo Jesus.",
+      "bible_reference": "Filipenses 4:6-7",
+      "image_url": "/src/assets/images/hero_sky_clouds_1795123819266.jpg",
+      "published_date": "2026-11-12",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    }
+  ],
+  "events": [
+    {
+      "id": 2,
+      "name": "Culto da Família Especial",
+      "event_date": "",
+      "event_time": "Domingo, às 10:00h",
+      "description": "Evento demonstrativo — celebração especial voltada para toda a família com ministração da Palavra e comunhão. Data oficial a ser confirmada.",
+      "image_url": "/src/assets/images/palavra_biblia_luz_1795123820778.jpg",
+      "location": "Templo Sede",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 1,
+      "name": "Vigília de Oração",
+      "event_date": "",
+      "event_time": "Sexta-feira, às 22:00h",
+      "description": "Evento demonstrativo — noite de clamor, louvor e intercessão pelas famílias. Data oficial a ser confirmada pela liderança pastoral.",
+      "image_url": "/src/assets/images/vigilia_adoracao_maos_1795123818998.jpg",
+      "location": "Templo Sede",
+      "status": "published",
+      "is_demo": 1,
+      "created_at": "2026-11-20 01:02:28",
+      "updated_at": "2026-11-20 01:02:28"
+    }
+  ],
+  "notices": [],
+  "gallery": [
+    {
+      "id": 3,
+      "title": "Fé que Move Montanhas",
+      "caption": "A cruz como símbolo de esperança e salvação (imagem ilustrativa substituível na Área do Pastor).",
+      "image_url": "/src/assets/images/estudo_cruz_fe_1795123819357.jpg",
+      "event_date": "Registro ilustrativo",
+      "created_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 2,
+      "title": "Ensinamento da Palavra",
+      "caption": "Estudo bíblico e edificação espiritual da igreja (imagem ilustrativa substituível na Área do Pastor).",
+      "image_url": "/src/assets/images/palavra_biblia_luz_1795123820778.jpg",
+      "event_date": "Registro ilustrativo",
+      "created_at": "2026-11-20 01:02:28"
+    },
+    {
+      "id": 1,
+      "title": "Noite de Adoração e Clamor",
+      "caption": "Momento de oração e comunhão no Templo Sede (imagem ilustrativa substituível na Área do Pastor).",
+      "image_url": "/src/assets/images/vigilia_adoracao_maos_1795123818998.jpg",
+      "event_date": "Registro ilustrativo",
+      "created_at": "2026-11-20 01:02:28"
+    }
+  ]
+}

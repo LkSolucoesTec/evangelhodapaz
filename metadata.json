@@ -1,0 +1,6 @@
+{
+  "name": "Comunidade Evangélica Pentecostal O Evangelho da Paz",
+  "description": "Site oficial da Comunidade Evangélica Pentecostal O Evangelho da Paz — Palavra do Dia, Estudos Bíblicos, Agenda de Cultos, Pedidos de Oração, Dízimos e Ofertas e Área do Pastor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
